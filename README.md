@@ -1,1 +1,1 @@
-# hadoop-sample
+# docker-hadoop
